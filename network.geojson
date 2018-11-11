@@ -1,0 +1,238 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing",
+                "region": "China",
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#DC143C",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    116.40739,
+                    39.90419
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanghai",
+                "region": "China",
+                "status": "Coming sonn",
+                "marker-size": "medium",
+                "marker-color": "#DC143C",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    121.47370,
+                    31.23039
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Tokyo",
+                "region": "Asia Pacific",
+                "zone": 6,
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    139.691706,
+                    35.689488
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Taiwan",
+                "region": "Asia Pacific",
+                "zone": 3,
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    120.960515,
+                    23.69781
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Hong Kong",
+                "region": "Asia Pacific",
+                "zone": 3,
+                "status": "Online",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    114.109497,
+                    22.396428
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Singapore",
+                "region": "Asia Pacific",
+                "zone": 6,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    103.819836,
+                    1.352083
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Seoul",
+                "region": "Asia Pacific",
+                "zone": 2,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    126.977969,
+                    37.566535
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Sydney",
+                "region": "Asia Pacific",
+                "zone": 6,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    151.209296,
+                    -33.86882
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "California",
+                "region": "USA",
+                "zone": 5,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -119.417932,
+                    36.778261
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Virginia",
+                "region": "USA",
+                "zone": 9,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -78.656894,
+                    37.431573
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Oregon",
+                "region": "USA",
+                "zone": 6,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -121.178682,
+                    45.594565
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "London",
+                "region": "Europe",
+                "zone": 6,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -0.127758,
+                    51.507351
+                ],
+                "type": "Point"
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "name": "Frankfurt",
+                "region": "Europe",
+                "zone": 6,
+                "status": "Coming soon",
+                "marker-size": "medium",
+                "marker-color": "#4169E1",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    8.682127,
+                    50.110922
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
