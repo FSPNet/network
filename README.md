@@ -1,3 +1,3 @@
-# FSP Network
+# Network
 
-The FPSNetwork provides region for network services.
+The Fornax Network provides region for network services.
